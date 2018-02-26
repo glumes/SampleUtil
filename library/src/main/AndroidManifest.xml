@@ -1,2 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.glumes.sampleutil" />
+    package="com.glumes.sampleutil">
+
+    <application>
+        <activity android:name=".BaseToolbarActivity" android:theme="@style/BaseContainer"></activity>
+    </application>
+
+</manifest>
