@@ -1,4 +1,4 @@
-package com.glumes.sampleutil;
+package com.glumes.library;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
